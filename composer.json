@@ -1,0 +1,14 @@
+{
+    "name": "slava/lrv",
+    "description": "Домашнее задание по Composer",
+    "authors": [
+        {
+            "name": "SlavaFors",
+            "email": "luinel13@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require-dev": {
+        "psr/log": "^3.0"
+    }
+}
